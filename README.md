@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/sshashank13/DSA-Problems/tree/master/0283-move-zeroes) |
 | [1406-stone-game-iii](https://github.com/sshashank13/DSA-Problems/tree/master/1406-stone-game-iii) |
 ## Math
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/sshashank13/DSA-Problems/tree/master/1406-stone-game-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/sshashank13/DSA-Problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
