@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sshashank13/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sshashank13/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [1406-stone-game-iii](https://github.com/sshashank13/DSA-Problems/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/sshashank13/DSA-Problems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sshashank13/DSA-Problems/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/sshashank13/DSA-Problems/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/sshashank13/DSA-Problems/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
