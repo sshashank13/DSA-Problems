@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sshashank13/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/sshashank13/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [1406-stone-game-iii](https://github.com/sshashank13/DSA-Problems/tree/master/1406-stone-game-iii) |
+| [1470-shuffle-the-array](https://github.com/sshashank13/DSA-Problems/tree/master/1470-shuffle-the-array) |
 | [3731-find-missing-elements](https://github.com/sshashank13/DSA-Problems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
