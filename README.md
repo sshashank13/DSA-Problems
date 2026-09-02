@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sshashank13/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/sshashank13/DSA-Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sshashank13/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sshashank13/DSA-Problems/tree/master/0414-third-maximum-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sshashank13/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/sshashank13/DSA-Problems/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
