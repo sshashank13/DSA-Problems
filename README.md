@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sshashank13/DSA-Problems/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sshashank13/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sshashank13/DSA-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sshashank13/DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sshashank13/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sshashank13/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/sshashank13/DSA-Problems/tree/master/0485-max-consecutive-ones) |
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sshashank13/DSA-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sshashank13/DSA-Problems/tree/master/0229-majority-element-ii) |
 | [3731-find-missing-elements](https://github.com/sshashank13/DSA-Problems/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sshashank13/DSA-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sshashank13/DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/sshashank13/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [3731-find-missing-elements](https://github.com/sshashank13/DSA-Problems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -52,8 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sshashank13/DSA-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sshashank13/DSA-Problems/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sshashank13/DSA-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sshashank13/DSA-Problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
