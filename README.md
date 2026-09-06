@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sshashank13/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sshashank13/DSA-Problems/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sshashank13/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sshashank13/DSA-Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sshashank13/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sshashank13/DSA-Problems/tree/master/0414-third-maximum-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sshashank13/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1406-stone-game-iii](https://github.com/sshashank13/DSA-Problems/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
